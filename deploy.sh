@@ -1,0 +1,2 @@
+hugo
+firebase deploy
