@@ -12,7 +12,7 @@ I also enjoy drawing, writing, reading novels and listening to British alt rock 
 
 ## Education
 #### The Chinese University of Hong Kong
-2014.09-2021.07 *(suspended from 2016.01-2018.12 due to illness)*
+2014.09-2021.07 *(suspension due to illness from 2016.01-2018.12)*
 
 **B.Sc. in Computer Science**
 
