@@ -8,7 +8,7 @@ title = "Yu Chao (趙佑)"
 
 I am a final year computer science student at the Chinese University of Hong Kong interested in the applied side of computer science. I developed software projects ranging from web apps, mobile apps, to games and chat bots. Currently working on a web-based multiplayer monopoly game (using Go and Godot) as my final year project.
 
-I also enjoy drawing, writing, reading novels and listening to British alt rock in my free time.
+I also enjoy drawing, writing, reading novels and listening to music (mostly British alt rock) in my free time.
 
 ## Education
 #### The Chinese University of Hong Kong
@@ -16,13 +16,7 @@ I also enjoy drawing, writing, reading novels and listening to British alt rock 
 
 **B.Sc. in Computer Science**
 
-* Final Year Project: Web-based multiplayer digital board game.
-* Awards:
-    - Dean's List, 2019-2020
-    - ELITE Stream Scholarship 2019-2020
-    - New Asia College Mr. Michael Wong Scholarship
-    - Faculty of Engineering Entrance Scholarship
-    - Honours at Entrance (with full scholarship)
+* Final Year Project: Web-based multiplayer game using Go and Godot Engine.
 * Major Courses Taken:
     - Data Structures
     - Embedded System Design
@@ -54,6 +48,8 @@ I worked in an international team of 10 members and gained invaluable experience
 I also won **Anita Borg's Institute Best Coder Award for Google Summer of Code 2017** upon completing the internship.
 
 GSoC2017 Archive: [https://summerofcode.withgoogle.com/archive/2017/projects/5856735650643968/](https://summerofcode.withgoogle.com/archive/2017/projects/5856735650643968/)
+
+Source Code: [https://github.com/YuChaoGithub/powerup-iOS](https://github.com/YuChaoGithub/powerup-iOS)
 
 #### OSell Web Development Intern
 2015.06-2015.07 (Chongqing, China)
@@ -155,14 +151,10 @@ Source Code: [https://github.com/YuChaoGithub/flutter-apnea-app](https://github.
 
 ## Skills
 #### Programming Languages
-* Go
-* C
-* C++
-* Java
-* Python
-* SQL
+Go, C, C++, Java (intermediate), Python (basic), JavaScript (basic).
+
+#### Tools
+Docker, Git, PostgreSQL, Redis.
 
 #### Languages
-* Mandarin Chinese (Native)
-* English (IELTS 7.5)
-* Cantonese (Basic)
+English (fluent), Mandarin Chinese (native), Cantonese (basic).
