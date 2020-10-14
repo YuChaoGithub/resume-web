@@ -31,6 +31,9 @@ I also enjoy drawing, writing, reading novels and listening to music (mostly Bri
     - Software Engineering
     - Cyber Security
     - Introduction to Cloud Computing and Storage
+* Awards:
+    - Dean's List 2019-2020.
+    - Honours at entrance (covering full tuition fee).
 
 Full Course List: [https://shinerightstudio.com/course-review/](https://shinerightstudio.com/course-review/)
 
