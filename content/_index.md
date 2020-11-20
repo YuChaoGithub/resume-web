@@ -6,7 +6,7 @@ title = "Yu Chao (趙佑)"
 
 {{< figure class="avatar" src="/avatar.jpg" >}}
 
-I am a final year computer science student at the Chinese University of Hong Kong interested in the applied side of computer science. I developed software projects ranging from web apps, mobile apps, to games and chat bots. Currently working on a web-based multiplayer monopoly game (using Go and Godot) as my final year project.
+I am a final year computer science student at the Chinese University of Hong Kong interested in distributed systems, software engineering, and generally the more applied side of computer science. I developed software projects ranging from web apps, mobile apps, to games and chat bots. Currently working on a web-based multiplayer monopoly game (using Go and Godot) as my final year project.
 
 I also enjoy drawing, writing, reading novels and listening to music (mostly British alt rock) in my free time.
 
